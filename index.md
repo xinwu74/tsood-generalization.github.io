@@ -13,13 +13,16 @@ A list of research papers on out-of-distribution (OOD) generalization in time se
 ### Covariate Shift
 
 *   [CVPR 2021] Out-of-distribution Detection and Generation using Soft Brownian Offset Sampling and Autoencoders [paper](https://openaccess.thecvf.com/content/CVPR2021W/SAIAD/papers/Moller_Out-of-Distribution_Detection_and_Generation_Using_Soft_Brownian_Offset_Sampling_and_CVPRW_2021_paper.pdf)
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   [SMC 2022] Feature Importance Identification for Time Series Classifiers [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9945205)
+*   [FUZZ 2023] An Initial Step Towards Stable Explanations for Multivariate Time Series Classifiers with LIME [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10309814)
+*   [Neural Networks 2024] SEGAL time series classification - Stable explanations using a generative model and an adaptive weighting method for LIME [paper](https://www.sciencedirect.com/science/article/pii/S0893608024002697/pdfft?md5=3f81e6d7a6bddcb6857d94aa6ab04937&pid=1-s2.0-S0893608024002697-main.pdf)
+*   [VR 2024] Generating Virtual Reality Stroke Gesture Data from Out-of-Distribution Desktop Stroke Gesture Data [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10494175)
+*   [XXX 2022] XXX [paper](XXX)
 
 ### Concept Shift
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   [XXX 2022] XXX [paper](XXX)
+*   [XXX 2022] XXX [paper](XXX)
 *   This is an unordered list following a header.
 
 ## Representation learning
