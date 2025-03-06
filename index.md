@@ -44,13 +44,7 @@ A list of research papers on out-of-distribution (OOD) generalization in time se
 <!-- ### Small image -->
 <!-- ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) -->
 
-<div id="footer">
-    <div id="footer-text"></div>
-</div>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BTX_H0VnhuD1hlDFNm6hhvMcQnE6E5gY6fYuNlGg0Gs"></script>
-</div>
 
 
-
-Last updated on April. 21, 2022. 
-(For problems, contact liujiashuo77@gmail.com. To add papers, please pull request at <a href="https://github.com/tsood-generalization/tsood-generalization.github.io">our repo</a>)
+Last updated on March 6, 2025. 
+(For problems, contact xinwu5386@gmail.com. To add papers, please pull request at <a href="https://github.com/tsood-generalization/tsood-generalization.github.io">our repo</a>)
