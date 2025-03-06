@@ -117,14 +117,37 @@ Others:
 *   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
 
 ## Dataset
-*   <span style="color:red;">[IEEE ICFS 2023]</span> An Initial Step Towards Stable Explanations for Multivariate Time Series Classifiers with LIME <a href="https://ieeexplore.ieee.org/document/9534487">[paper]</a>  
-*   <span style="color:red;">[Neural Netw. 2024]</span> SEGAL Time Series Classification — Stable Explanations Using A Generative Model and An Adaptive Weighting Method for LIME <a href="https://www.sciencedirect.com/science/article/pii/S0893608024000685">[paper]</a>  
-*   <span style="color:red;">[CVPR 2021]</span> Causal Hidden Markov Model for Time Series Disease Forecasting <a href="https://github.com/LilJing/causal_hmm">[paper]</a>  
-*   <span style="color:red;">[ICML 2024]</span> TimeX++: Learning Time-series Explanations with Information Bottleneck <a href="https://proceedings.mlr.press/v202/liu24d.html">[paper]</a>  
-*   <span style="color:red;">[TPAMI 2024]</span> CauSTG: A Causal Representation Learning Based Model for Time Series Prediction under External Interference <a href="https://ieeexplore.ieee.org/document/9999999">[paper]</a>  
-*   <span style="color:red;">[ICML 2024]</span> SCNN: A Hybrid Linear-neural Model for Time Series Forecasting <a href="https://proceedings.mlr.press/v202/medeiros00a.html">[paper]</a>  
-*   <span style="color:red;">[ICML 2024]</span> MSGNet: Learning Multi-scale Inter-series Correlations for Multivariate Time Series Forecasting <a href="https://proceedings.mlr.press/v202/cai24a.html">[paper]</a>  
-*   <span style="color:red;">[ICML 2024]</span> ACGAN: Auxiliary Classifier GAN for Time Series Forecasting <a href="https://proceedings.mlr.press/v202/zhang24a.html">[paper]</a>
+
+| 列1标题 | 列2标题 |
+|--------|--------|
+| <span style="color:red;">[FUZZ 2023]</span> [An Initial Step Towards Stable Explanations for Multivariate Time Series Classifiers with LIME](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10309814) | [UEA](https://www.timeseriesclassification.com/index.php) |
+| 内容3  | 内容4  |
+| 内容5  | 内容6  |
+| 内容7  | 内容8  |
+| 内容9  | 内容10 |
+
+
+Causal-HMM \cite{41}
+*    <a href="https://github.com/LilJing/causal_hmm">In-house data on PPA</a>
+
+TimeX++ \cite{30} 
+*    <a href="https://www.cs.ucr.edu/~eamonn/time_series_data_2018">UCR</a>
+
+CauSTG \cite{62} 
+*    <a href="https://data.cic-tp.com/h5/sample-data/china/export-data/company/suzhou-industrial-park">SIP</a>
+
+CauSTG \cite{62}
+*    <a href="https://www.kaggle.com/datasets/annnnguyen/metr-la-dataset">METR-LA</a>
+*    <a href="https://github.com/shuowang-ai/PM2.5-GNN">KnowAir</a>
+*    <a href="https://github.com/laiguokun/multivariate-time-series-data/tree/master/electricity">Electricity</a>
+
+SCNN \cite{35} 
+*    <a href="https://github.com/laiguokun/multivariate-time-series-data">Traffic,Solar-energy, Electricity,Exchange-rate, Electricity</a>
+
+MSGNet \cite{40}
+*    <a href="https://opensky-network.org/">Flight</a>
+*    <a href=" https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy">Weather, ETT</a>
+*    <a href="https://github.com/laiguokun/multivariate-time-series-data/tree/master/electricity">Exchange-Rate, Electricity</a>
 
 
 ## Other Related Papers
