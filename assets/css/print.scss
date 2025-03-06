@@ -189,9 +189,9 @@ blockquote {
 }
 
 ul li {
-  padding-left: 2px;
+  padding-left: 24px;
   list-style-position: inside;
-  font-size: 30px;
+  font-size: 20px;
   list-style: disc;
 }
 
@@ -199,6 +199,7 @@ ol li {
   padding-left: 3px;
   list-style-position: inside;
   list-style: decimal;
+  font-size: 20px;
 }
 
 dl dd {
