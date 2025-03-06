@@ -84,6 +84,19 @@ Domain-Invariance Methods:
 *   <span style="color:red;">[AAMAS 2024]</span> Rethinking out-of-distribution detection for reinforcement learning: Advancing methods for evaluation and detection, <a href="https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p1445.pdf">[paper]</a>
 
 ### Large Time-Series Models
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
