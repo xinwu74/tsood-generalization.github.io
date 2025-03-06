@@ -81,7 +81,7 @@ Domain-Invariance Methods:
 *   <span style="color:red;">[KDD 2023]</span> Maintaining the Status Quo: Capturing Invariant Relations for OOD Spatiotemporal Learning <a href="http://home.ustc.edu.cn/~zzy0929/Home/Paper/KDD23_CauSTG.pdf">[Paper]</a>
 *   <span style="color:red;">[ICC 2023]</span> Out-of-distribution Internet Traffic Prediction Generalization Using Deep Sequence Model <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10279740">[Paper]</a>
 *   <span style="color:red;">[AIC 2023]</span> Classifying falls using out-of-distribution detection in human activity recognition <a href="https://content.iospress.com/download/ai-communications/aic220205?id=ai-communications%2Faic220205">[Paper]</a>
-*   <span style="color:red;">[AAMAS 2024]</span> Rethinking out-of-distribution detection for reinforcement learning: Advancing methods for evaluation and detection, <a href="https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p1445.pdf">[Paper]</a>
+*   <span style="color:red;">[AAMAS 2024]</span> Rethinking out-of-distribution detection for reinforcement learning: Advancing methods for evaluation and detection <a href="https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p1445.pdf">[Paper]</a>
 
 ### Large Time-Series Models
 
