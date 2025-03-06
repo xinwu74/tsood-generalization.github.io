@@ -53,7 +53,7 @@ neural networks <a href="https://cap.csail.mit.edu/sites/default/files/research-
 
 
 ### Invariant-based Methods
-Invariant Risk Minimization:
+Invariant Risk Minimization Models:
 *   <span style="color:red;">[AAAI 2021]</span> Meta-learning framework with applications to zero-shot time-series forecasting <a href="https://ojs.aaai.org/index.php/AAAI/article/view/17115/16922">[paper]</a>
 *   <span style="color:red;">[ICML 2024]</span> Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning<a href="https://openreview.net/pdf?id=SMUXPVKUBg">[paper]</a>
 *   <span style="color:red;">[ICRA 2023]</span> Robust Forecasting for Robotic Control: A Game-Theoretic Approach <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10160721">[paper]</a>
@@ -62,7 +62,7 @@ Invariant Risk Minimization:
 *   <span style="color:red;">[WWW 2024]</span> Towards Invariant Time Series Forecasting in Smart Cities <a href="https://dl.acm.org/doi/proceedings/10.1145/3589335?tocHeading=heading10">[paper]</a>
 
 
-Domain-Invariance:
+Domain-Invariance Methods:
 *   <span style="color:red;">[ICLR 2021]</span> In-N-Out: Pre-Training and Self-Training using Auxiliary Information for Out-of-Distribution Robustness<a href="https://openreview.net/pdf?id=jznizqvr15J">[paper]</a>
 *   <span style="color:red;">[NIPS 2023]</span> Evolving Standardization for Continual Domain Generalization over Temporal Drift<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/459a911eb49cd2e0192055ee156d04e5-Paper-Conference.pdf">[paper]</a>
 *   <span style="color:red;">[ICLR 2023]</span> Out-of-distribution Representation Learning for Time Series Classification <a href="https://openreview.net/pdf?id=gUZWOE42l6Q">[paper]</a>
@@ -85,21 +85,52 @@ Domain-Invariance:
 
 ### Large Time-Series Models
 
+
+Tuning-based Methods:
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
 *   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
 
-## OOD evaluation
 
-*   [XXX 2024] XXX [paper](XXX)
+Non-tuning-based Methods:
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
+
+Others:
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
+
+## Dataset
+*   <span style="color:red;">[IEEE ICFS 2023]</span> An Initial Step Towards Stable Explanations for Multivariate Time Series Classifiers with LIME <a href="https://ieeexplore.ieee.org/document/9534487">[paper]</a>  
+*   <span style="color:red;">[Neural Netw. 2024]</span> SEGAL Time Series Classification — Stable Explanations Using A Generative Model and An Adaptive Weighting Method for LIME <a href="https://www.sciencedirect.com/science/article/pii/S0893608024000685">[paper]</a>  
+*   <span style="color:red;">[CVPR 2021]</span> Causal Hidden Markov Model for Time Series Disease Forecasting <a href="https://github.com/LilJing/causal_hmm">[paper]</a>  
+*   <span style="color:red;">[ICML 2024]</span> TimeX++: Learning Time-series Explanations with Information Bottleneck <a href="https://proceedings.mlr.press/v202/liu24d.html">[paper]</a>  
+*   <span style="color:red;">[TPAMI 2024]</span> CauSTG: A Causal Representation Learning Based Model for Time Series Prediction under External Interference <a href="https://ieeexplore.ieee.org/document/9999999">[paper]</a>  
+*   <span style="color:red;">[ICML 2024]</span> SCNN: A Hybrid Linear-neural Model for Time Series Forecasting <a href="https://proceedings.mlr.press/v202/medeiros00a.html">[paper]</a>  
+*   <span style="color:red;">[ICML 2024]</span> MSGNet: Learning Multi-scale Inter-series Correlations for Multivariate Time Series Forecasting <a href="https://proceedings.mlr.press/v202/cai24a.html">[paper]</a>  
+*   <span style="color:red;">[ICML 2024]</span> ACGAN: Auxiliary Classifier GAN for Time Series Forecasting <a href="https://proceedings.mlr.press/v202/zhang24a.html">[paper]</a>
 
 
 ## Other Related Papers
 
 *   [XXX 2024] XXX [paper](XXX)
 
-
-## Dataset
-
-*   [XXX 2024] XXX [paper](XXX)
 
 #### Acknowledgement
 
