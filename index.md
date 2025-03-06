@@ -48,6 +48,10 @@ A list of research papers on out-of-distribution (OOD) generalization in time se
     <div id="footer-text"></div>
 </div>
 
+<!-- Map Widget -->
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=q6eVgeaBn-p2jkFoYf-6vSskb8SxHJqWuia9GW0Q_AE&cl=ffffff&w=a"></script>
+
+<!-- Globe Widget -->
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=q6eVgeaBn-p2jkFoYf-6vSskb8SxHJqWuia9GW0Q_AE"></script>
 
 Last updated on March 6, 2025. 
