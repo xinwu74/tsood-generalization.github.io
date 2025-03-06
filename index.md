@@ -77,10 +77,10 @@ Domain-Invariance Methods:
 
 ### Ensemble-based Learning
 *   <span style="color:red;">[SAIS 2022]</span> Out-of-distribution in Human Activity Recognition <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9833052">[paper]</a>
-*   <span style="color:red;">[Reliab. Eng. Syst. Saf 2022]</span> Out-of-distribution detection-assisted trustworthy machinery fault diagnosis approach with uncertainty-aware deep ensembles <a href="https://www.sciencedirect.com/science/article/abs/pii/S0951832022002836">[paper]</a>
+*   <span style="color:red;">[RESS 2022]</span> Out-of-distribution detection-assisted trustworthy machinery fault diagnosis approach with uncertainty-aware deep ensembles <a href="https://www.sciencedirect.com/science/article/abs/pii/S0951832022002836">[paper]</a>
 *   <span style="color:red;">[KDD 2023]</span> Maintaining the Status Quo: Capturing Invariant Relations for OOD Spatiotemporal Learning <a href="http://home.ustc.edu.cn/~zzy0929/Home/Paper/KDD23_CauSTG.pdf">[paper]</a>
 *   <span style="color:red;">[ICC 2023]</span> Out-of-distribution Internet Traffic Prediction Generalization Using Deep Sequence Model <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10279740">[paper]</a>
-*   <span style="color:red;">[AI Commun. 2023]</span> Classifying falls using out-of-distribution detection in human activity recognition <a href="https://content.iospress.com/download/ai-communications/aic220205?id=ai-communications%2Faic220205">[paper]</a>
+*   <span style="color:red;">[AIC 2023]</span> Classifying falls using out-of-distribution detection in human activity recognition <a href="https://content.iospress.com/download/ai-communications/aic220205?id=ai-communications%2Faic220205">[paper]</a>
 *   <span style="color:red;">[AAMAS 2024]</span> Rethinking out-of-distribution detection for reinforcement learning: Advancing methods for evaluation and detection, <a href="https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p1445.pdf">[paper]</a>
 
 ### Large Time-Series Models
@@ -117,8 +117,8 @@ Others:
 *   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
 
 ## Datasets
-| Paper | Datasets |
-|--------|--------|
+| Paper        | Datasets          |
+|:-------------|:------------------|
 | [SLIME-MTS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10309814) | [UEA](https://www.timeseriesclassification.com/index.php) |
 | [Causal-HMM](https://github.com/LilJing/causal_hmm) | In-house data on PPA |
 | [TimeX++](https://www.cs.ucr.edu/~eamonn/time_series_data_2018) | UCR |
