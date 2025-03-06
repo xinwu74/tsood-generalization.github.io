@@ -10,10 +10,17 @@ A list of research papers on out-of-distribution (OOD) generalization in time se
 
 ## Data Distribution
 
-*   This is an unordered list following a header.
+### Covariate Shift
+
+*   [CVPR 2021] Out-of-distribution Detection and Generation using Soft Brownian Offset Sampling and Autoencoders [paper](https://openaccess.thecvf.com/content/CVPR2021W/SAIAD/papers/Moller_Out-of-Distribution_Detection_and_Generation_Using_Soft_Brownian_Offset_Sampling_and_CVPRW_2021_paper.pdf)
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
+### Concept Shift
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
 
 ## Representation learning
 
