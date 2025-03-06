@@ -18,7 +18,7 @@ Real-world data distributions are often dynamic rather than static and frequentl
 *   <span style="color:red;">[SMC 2022]</span> Feature Importance Identification for Time Series Classifiers <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9945205">[paper]</a>
 *   <span style="color:red;">[FUZZ 2023]</span> An Initial Step Towards Stable Explanations for Multivariate Time Series Classifiers with LIME<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10309814">[paper]</a>
 *   <span style="color:red;">[Inf. Sci. 2023]</span> Explaining time series classifiers through meaningful perturbation and optimisation <a href="https://www.sciencedirect.com/science/article/pii/S0020025523009192">[paper]</a>
-*   <span style="color:red;">[Neural Networks 2024]</span> SEGAL time series classification - Stable explanations using a generative model and an adaptive weighting method for LIME <a href="https://www.sciencedirect.com/science/article/pii/S0893608024002697/pdfft?md5=3f81e6d7a6bddcb6857d94aa6ab04937&pid=1-s2.0-S0893608024002697-main.pdf">[paper]</a>
+*   <span style="color:red;">[J.Neunet 2024]</span> SEGAL time series classification - Stable explanations using a generative model and an adaptive weighting method for LIME <a href="https://www.sciencedirect.com/science/article/pii/S0893608024002697/pdfft?md5=3f81e6d7a6bddcb6857d94aa6ab04937&pid=1-s2.0-S0893608024002697-main.pdf">[paper]</a>
 *   <span style="color:red;">[VR 2024]</span> Generating Virtual Reality Stroke Gesture Data from Out-of-Distribution Desktop Stroke Gesture Data <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10494175">[paper]</a>
 *   <span style="color:red;">[AAAI 2024]</span> Generalizing across temporal domains with koopman operators <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29604/31020">[paper]</a>
 *   <span style="color:red;">[IJCAI 2024]</span> Temporal Domain Generalization via Learning Instance-level Evolving Patterns <a href="https://www.ijcai.org/proceedings/2024/0470.pdf">[paper]</a>
@@ -84,7 +84,12 @@ Domain-Invariance Methods:
 *   <span style="color:red;">[AAMAS 2024]</span> Rethinking out-of-distribution detection for reinforcement learning: Advancing methods for evaluation and detection, <a href="https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p1445.pdf">[paper]</a>
 
 ### Large Time-Series Models
-
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 Tuning-based Methods:
 *   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
