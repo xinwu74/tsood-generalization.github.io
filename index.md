@@ -13,17 +13,21 @@ A list of research papers on out-of-distribution (OOD) generalization in time se
 ### Covariate Shift
 
 *   [CVPR 2021] Out-of-distribution Detection and Generation using Soft Brownian Offset Sampling and Autoencoders [paper](https://openaccess.thecvf.com/content/CVPR2021W/SAIAD/papers/Moller_Out-of-Distribution_Detection_and_Generation_Using_Soft_Brownian_Offset_Sampling_and_CVPRW_2021_paper.pdf)
+*   [ICLR 2022] Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift [paper](https://openreview.net/pdf?id=cGDAkQo1C0p)
 *   [SMC 2022] Feature Importance Identification for Time Series Classifiers [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9945205)
 *   [FUZZ 2023] An Initial Step Towards Stable Explanations for Multivariate Time Series Classifiers with LIME [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10309814)
+*   [Inf. Sci. 2023] Explaining time series classifiers through meaningful perturbation and optimisation [paper](https://www.sciencedirect.com/science/article/pii/S0020025523009192)
 *   [Neural Networks 2024] SEGAL time series classification - Stable explanations using a generative model and an adaptive weighting method for LIME [paper](https://www.sciencedirect.com/science/article/pii/S0893608024002697/pdfft?md5=3f81e6d7a6bddcb6857d94aa6ab04937&pid=1-s2.0-S0893608024002697-main.pdf)
 *   [VR 2024] Generating Virtual Reality Stroke Gesture Data from Out-of-Distribution Desktop Stroke Gesture Data [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10494175)
-*   [XXX 2022] XXX [paper](XXX)
+*   [AAAI 2024] Generalizing across temporal domains with koopman operators [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29604/31020)
+*   [IJCAI 2024] Temporal Domain Generalization via Learning Instance-level Evolving Patterns [paper](https://www.ijcai.org/proceedings/2024/0470.pdf)
+*   [ICML 2024] Connect later: Improving fine-tuning for robustness with targeted augmentations [paper](https://openreview.net/pdf?id=Uz4Qr40Y3C)
+*   [ICML 2024] TimeX++: Learning Time-Series Explanations with Information Bottleneck [paper](https://openreview.net/pdf?id=t6dBpwkbea)
 
 ### Concept Shift
 
-*   [XXX 2022] XXX [paper](XXX)
-*   [XXX 2022] XXX [paper](XXX)
-*   This is an unordered list following a header.
+*   [AAMAS 2024] Rethinking out-of-distribution detection for reinforcement learning: Advancing methods for evaluation and detection, [paper](https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p1445.pdf)
+*   [ICLR 2024] Disentangling Time Series Representations via Contrastive Independence-of-Support on l-Variational Inference [paper](https://openreview.net/pdf?id=iI7hZSczxE)
 
 ## Representation learning
 
