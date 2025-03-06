@@ -34,7 +34,7 @@ Real-world data distributions are often dynamic rather than static and frequentl
 
 
 ### Decoupling-based Methods
-**Multi-Structured Analysis**
+Multi-Structured Analysis
 *   [KDD 2024] Orthogonality Matters: Invariant Time Series Representation for Out-of-distribution Classification [paper](https://dl.acm.org/doi/pdf/10.1145/3637528.3671768)
 *   [TKDE 2024] Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10457027)
 *   [NIPS 2020] Feature Shift Detection: Localizing Which Features Have Shifted via Conditional Distribution Tests [paper](https://proceedings.neurips.cc/paper/2020/file/e2d52448d36918c575fa79d88647ba66-Paper.pdf)
@@ -43,7 +43,7 @@ Real-world data distributions are often dynamic rather than static and frequentl
 *   [ACM TIST 2023] Out-of-distribution Detection in Time-series Domain: A Novel Seasonal Ratio Scoring Approach [paper](https://dl.acm.org/doi/pdf/10.1145/3630633)
 *   [AAAI 2024] MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28991/29883)
 
-**Causality-Inspired**
+Causality-Inspired
 *   [CVPR 2021] Causal hidden markov model for time series disease forecasting [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Causal_Hidden_Markov_Model_for_Time_Series_Disease_Forecasting_CVPR_2021_paper.pdf)
 *   [ICRA 2022] Causal-based Time Series Domain Generalization for Vehicle Intention Prediction [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9812188)
 *   [ICML 2023] Neural Stochastic Differential Games for Time-series Analysis [paper](https://proceedings.mlr.press/v202/park23j/park23j.pdf)
@@ -53,7 +53,7 @@ neural networks [paper](https://cap.csail.mit.edu/sites/default/files/research-p
 
 
 ### Invariant-based Methods
-**Invariant Risk Minimization**
+Invariant Risk Minimization:
 
 *   [XXX 2024] XXX [paper](XXX)
 *   [XXX 2024] XXX [paper](XXX)
