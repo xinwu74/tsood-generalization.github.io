@@ -31,7 +31,7 @@ Real-world data distributions are often dynamic rather than static and frequentl
 *  <span style="color:red;">[ICLR 2024]</span> Disentangling Time Series Representations via Contrastive Independence-of-Support on l-Variational Inference <a href="https://openreview.net/pdf?id=iI7hZSczxE">[Paper]</a>
 
 ## Representation learning
-
+Representation learning effectively addresses shifts and improves overall generalization performance by extracting robust and generalizable features. Concretely, these methods can be grouped into four categories: decoupling-based models, invariance-based models, ensemble-based learning, and large-scale time series models.
 
 ### Decoupling-based Methods
 Multi-Structured Analysis:
