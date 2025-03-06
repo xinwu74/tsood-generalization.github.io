@@ -13,7 +13,7 @@ Real-world data distributions are often dynamic rather than static and frequentl
 
 ### Covariate Shift
 
-*  <span style="color:red;">[CVPR 2021]</span> Out-of-distribution Detection and Generation using Soft Brownian Offset Sampling and Autoencoders [[paper](https://openaccess.thecvf.com/content/CVPR2021W/SAIAD/papers/]Moller_Out-of-Distribution_Detection_and_Generation_Using_Soft_Brownian_Offset_Sampling_and_CVPRW_2021_paper.pdf)
+*  <span style="color:red;">[CVPR 2021]</span> Out-of-distribution Detection and Generation using Soft Brownian Offset Sampling and Autoencoders [[paper](https://openaccess.thecvf.com/content/CVPR2021W/SAIAD/papers/)]Moller_Out-of-Distribution_Detection_and_Generation_Using_Soft_Brownian_Offset_Sampling_and_CVPRW_2021_paper.pdf)
 *   <span style="color:red;">[ICLR 2022]</span> Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift <span style="color:blue;">[paper](https://openreview.net/pdf?id=cGDAkQo1C0p)</span> 
 *   <span style="color:red;">[SMC 2022]</span> Feature Importance Identification for Time Series Classifiers [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9945205)
 *   [FUZZ 2023] An Initial Step Towards Stable Explanations for Multivariate Time Series Classifiers with LIME [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10309814)
