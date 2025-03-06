@@ -123,24 +123,16 @@ Others:
 | Paper        | Datasets          | 
 |:-------------|:------------------|
 | [SLIME-MTS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10309814)           | [UEA](https://www.timeseriesclassification.com/index.php) |
-| out of stock | good and plenty   |
-| ok           | good `oreos`      |
-| ok           | good `zoute` drop |
-
-
-| Paper        | Datasets          |
-|:-------------|:------------------|
-| [SLIME-MTS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10309814) | [UEA](https://www.timeseriesclassification.com/index.php) |
-| [Causal-HMM](https://github.com/LilJing/causal_hmm) | In-house data on PPA |
-| [TimeX++](https://www.cs.ucr.edu/~eamonn/time_series_data_2018) | UCR |
-| [CauSTG](https://data.cic-tp.com/h5/sample-data/china/export-data/company/suzhou-industrial-park) | SIP |
-| [CauSTG](https://www.kaggle.com/datasets/annnnguyen/metr-la-dataset) | METR-LA |
-| [CauSTG](https://github.com/shuowang-ai/PM2.5-GNN) | KnowAir |
-| [CauSTG](https://github.com/laiguokun/multivariate-time-series-data/tree/master/electricity) | Electricity |
-| [SCNN](https://github.com/laiguokun/multivariate-time-series-data) | Traffic, Solar-energy, Electricity, Exchange-rate |
-| [MSGNet](https://opensky-network.org/) | Flight |
-| [MSGNet](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy) | Weather, ETT |
-| [MSGNet](https://github.com/laiguokun/multivariate-time-series-data/tree/master/electricity) | Exchange-Rate, Electricity |
+| [Causal-HMM](https://github.com/LilJing/causal_hmm) | [In-house data on PPA](https://github.com/LilJing/causal_hmm) |
+| [TimeX++](https://www.cs.ucr.edu/~eamonn/time_series_data_2018) | [UCR](https://www.cs.ucr.edu/~eamonn/time_series_data_2018) |
+| [CauSTG](https://data.cic-tp.com/h5/sample-data/china/export-data/company/suzhou-industrial-park) | [SIP]({https://data.cic-tp.com/h5/sample-data/china/export-data/company/suzhou-industrial-park) |
+| [CauSTG](https://www.kaggle.com/datasets/annnnguyen/metr-la-dataset) | [METR-LA](https://www.kaggle.com/datasets/annnnguyen/metr-la-dataset) |
+| [CauSTG](https://github.com/shuowang-ai/PM2.5-GNN) | [KnowAir](https://github.com/shuowang-ai/PM2.5-GNN) |
+| [CauSTG](https://github.com/laiguokun/multivariate-time-series-data/tree/master/electricity) | [Electricity](https://github.com/laiguokun/multivariate-time-series-data/tree/master/electricity) |
+| [SCNN](https://github.com/laiguokun/multivariate-time-series-data) | [Traffic, Solar-energy, Electricity, Exchange-rate](https://github.com/laiguokun/multivariate-time-series-data) |
+| [MSGNet](https://opensky-network.org/) | [Flight](https://opensky-network.org) |
+| [MSGNet](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy) | [Weather, ETT](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy) |
+| [MSGNet](https://github.com/laiguokun/multivariate-time-series-data/tree/master/electricity) | [Exchange-Rate, Electricity](https://github.com/laiguokun/multivariate-time-series-data/tree/master/electricity) |
 
 
 
