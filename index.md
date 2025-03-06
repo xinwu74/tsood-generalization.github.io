@@ -35,12 +35,12 @@ Real-world data distributions are often dynamic rather than static and frequentl
 
 ### Decoupling-based Methods
 Multi-Structured Analysis:
-*   <span style="color:red;">[KDD 2024]</span> Orthogonality Matters: Invariant Time Series Representation for Out-of-distribution Classification<a href="https://dl.acm.org/doi/pdf/10.1145/3637528.3671768">[paper]</a>
-*   <span style="color:red;">[TKDE 2024]</span> Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10457027">[paper]</a>
 *   <span style="color:red;">[NIPS 2020]</span> Feature Shift Detection: Localizing Which Features Have Shifted via Conditional Distribution Tests<a href="https://proceedings.neurips.cc/paper/2020/file/e2d52448d36918c575fa79d88647ba66-Paper.pdf">[paper]</a>
 *   <span style="color:red;">[IJCNN 2021]</span> Unsupervised Energy-based Out-of-distribution Detection using Stiefel-Restricted Kernel Machine<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9533706">[paper]</a>
 *   <span style="color:red;">[ACM TCPS 2022]</span> Efficient Out-of-Distribution Detection Using Latent Space of β-VAE for Cyber-Physical Systems<a href="https://dl.acm.org/doi/pdf/10.1145/3491243">[paper]</a>
 *   <span style="color:red;">[ACM TIST 2023]</span> Out-of-distribution Detection in Time-series Domain: A Novel Seasonal Ratio Scoring Approach<a href="https://dl.acm.org/doi/pdf/10.1145/3630633">[paper]</a>
+*   <span style="color:red;">[KDD 2024]</span> Orthogonality Matters: Invariant Time Series Representation for Out-of-distribution Classification<a href="https://dl.acm.org/doi/pdf/10.1145/3637528.3671768">[paper]</a>
+*   <span style="color:red;">[TKDE 2024]</span> Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10457027">[paper]</a>
 *   <span style="color:red;">[AAAI 2024]</span> MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting<a href="https://ojs.aaai.org/index.php/AAAI/article/view/28991/29883">[paper]</a>
 
 Causality-Inspired:
@@ -51,40 +51,41 @@ Causality-Inspired:
 neural networks <a href="https://cap.csail.mit.edu/sites/default/files/research-pdfs/Robust%20flight%20navigation%20out%20of%20distribution%20with%20liquid%20neural%20networks.pdf">[paper]</a>
 *   <span style="color:red;">[Inf. Sci. 2024]</span> A causal representation learning based model for time series prediction under external interference  <a href="https://www.sciencedirect.com/science/article/abs/pii/S002002552400183X">[paper]</a>
 
-*  <span style="color:red;">[CVPR 2021]</span> <a href=" ">[paper]</a>
+
 ### Invariant-based Methods
 Invariant Risk Minimization:
+*   <span style="color:red;">[AAAI 2021]</span> Meta-learning framework with applications to zero-shot time-series forecasting <a href="https://ojs.aaai.org/index.php/AAAI/article/view/17115/16922">[paper]</a>
+*   <span style="color:red;">[ICML 2024]</span> Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning<a href="https://openreview.net/pdf?id=SMUXPVKUBg">[paper]</a>
+*   <span style="color:red;">[ICRA 2023]</span> Robust Forecasting for Robotic Control: A Game-Theoretic Approach <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10160721">[paper]</a>
+*   <span style="color:red;">[KDD 2023]</span> DoubleAdapt: A Meta-learning Approach to Incremental Learning for Stock Trend Forecasting<a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599315">[paper]</a>
+*   <span style="color:red;">[KDD 2023]</span> TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting <a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599533">[paper]</a>
+*   <span style="color:red;">[WWW 2024]</span> Towards Invariant Time Series Forecasting in Smart Cities <a href="https://dl.acm.org/doi/proceedings/10.1145/3589335?tocHeading=heading10">[paper]</a>
 
-*   [ICML 2024] Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning [paper](https://openreview.net/pdf?id=SMUXPVKUBg)
-*   [ICRA 2023] Robust Forecasting for Robotic Control: A Game-Theoretic Approach [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10160721)
-*   [WWW 2024] Towards Invariant Time Series Forecasting in Smart Cities [paper](https://dl.acm.org/doi/proceedings/10.1145/3589335?tocHeading=heading10)
-*   [KDD 2023] DoubleAdapt: A Meta-learning Approach to Incremental Learning for Stock Trend Forecasting [paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599315)
-*   [KDD 2023] TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting [paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599533)
-*   [AAAI 2021] Meta-learning framework with applications to zero-shot time-series forecasting [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17115/16922)
 
 Domain-Invariance:
-*   [VR 2024] Generating Virtual Reality Stroke Gesture Data from Out-of-Distribution Desktop Stroke Gesture Data [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10494175)
-*   [AAAI 2024] Generalizing across temporal domains with koopman operators [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29604/31020)
-*   [ICML 2024] Connect later: Improving fine-tuning for robustness with targeted augmentations [paper](https://openreview.net/pdf?id=Uz4Qr40Y3C)
-*   [NIPS 2024] Continuous Temporal Domain Generalization [paper](https://openreview.net/pdf?id=G24fOpC3JE)
-*   [ICLR 2023] Out-of-distribution Representation Learning for Time Series Classification [paper](https://openreview.net/pdf?id=gUZWOE42l6Q)
-*   [TPAMI 2024] Diversify: A General Framework for Time Series Out-of-Distribution Detection and Generalization [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10402053)
-*   [Struct. 2024] Enhancing time series data classification for structural damage detection through out-of-distribution representation learning [paper](https://www.sciencedirect.com/science/article/abs/pii/S2352012424009184)
-*   [ICLR 2021] In-N-Out: Pre-Training and Self-Training using Auxiliary Information for Out-of-Distribution Robustness [paper](https://openreview.net/pdf?id=jznizqvr15J)
-*   [DAC 2024] SMORE: Similarity-based Hyperdimensional Domain Adaptation for Multi-Sensor Time Series Classification [paper](https://dl.acm.org/doi/pdf/10.1145/3649329.3658477) [PPT](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/9/5133/files/2024/07/DAC_2024.pdf)
-*   [NIPS 2023] Evolving Standardization for Continual Domain Generalization over Temporal Drift [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/459a911eb49cd2e0192055ee156d04e5-Paper-Conference.pdf)
-
+*   <span style="color:red;">[ICLR 2021]</span> In-N-Out: Pre-Training and Self-Training using Auxiliary Information for Out-of-Distribution Robustness<a href="https://openreview.net/pdf?id=jznizqvr15J">[paper]</a>
+*   <span style="color:red;">[NIPS 2023]</span> Evolving Standardization for Continual Domain Generalization over Temporal Drift<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/459a911eb49cd2e0192055ee156d04e5-Paper-Conference.pdf">[paper]</a>
+*   <span style="color:red;">[ICLR 2023]</span> Out-of-distribution Representation Learning for Time Series Classification <a href="https://openreview.net/pdf?id=gUZWOE42l6Q">[paper]</a>
+*   <span style="color:red;">[VR 2024]</span> Generating Virtual Reality Stroke Gesture Data from Out-of-Distribution Desktop Stroke Gesture Data <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10494175">[paper]</a>
+*   <span style="color:red;">[AAAI 2024]</span> Generalizing across temporal domains with koopman operators<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29604/31020">[paper]</a>
+*   <span style="color:red;">[ICML 2024]</span> Connect later: Improving fine-tuning for robustness with targeted augmentations<a href="https://openreview.net/pdf?id=Uz4Qr40Y3C">[paper]</a>
+*   <span style="color:red;">[NIPS 2024]</span> Continuous Temporal Domain Generalization <a href="https://openreview.net/pdf?id=G24fOpC3JE">[paper]</a>
+*   <span style="color:red;">[TPAMI 2024]</span> Diversify: A General Framework for Time Series Out-of-Distribution Detection and Generalization <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10402053">[paper]</a>
+*   <span style="color:red;">[Struct. 2024]</span> Enhancing time series data classification for structural damage detection through out-of-distribution representation learning<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352012424009184">[paper]</a>
+*   <span style="color:red;">[DAC 2024]</span> SMORE: Similarity-based Hyperdimensional Domain Adaptation for Multi-Sensor Time Series Classification<a href="https://dl.acm.org/doi/pdf/10.1145/3649329.3658477">[paper]</a> <a href="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/9/5133/files/2024/07/DAC_2024.pdf">[PPT]</a>
 
 
 ### Ensemble-based Learning
-
-*   [AAMAS 2024] Rethinking out-of-distribution detection for reinforcement learning: Advancing methods for evaluation and detection, [paper](https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p1445.pdf)
-*   [XXX 2024] XXX [paper](XXX)
-
+*   <span style="color:red;">[SAIS 2022]</span> Out-of-distribution in Human Activity Recognition <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9833052">[paper]</a>
+*   <span style="color:red;">[Reliab. Eng. Syst. Saf 2022]</span> Out-of-distribution detection-assisted trustworthy machinery fault diagnosis approach with uncertainty-aware deep ensembles <a href="https://www.sciencedirect.com/science/article/abs/pii/S0951832022002836">[paper]</a>
+*   <span style="color:red;">[KDD 2023]</span> Maintaining the Status Quo: Capturing Invariant Relations for OOD Spatiotemporal Learning <a href="http://home.ustc.edu.cn/~zzy0929/Home/Paper/KDD23_CauSTG.pdf">[paper]</a>
+*   <span style="color:red;">[ICC 2023]</span> Out-of-distribution Internet Traffic Prediction Generalization Using Deep Sequence Model <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10279740">[paper]</a>
+*   <span style="color:red;">[AI Commun. 2023]</span> Classifying falls using out-of-distribution detection in human activity recognition <a href="https://content.iospress.com/download/ai-communications/aic220205?id=ai-communications%2Faic220205">[paper]</a>
+*   <span style="color:red;">[AAMAS 2024]</span> Rethinking out-of-distribution detection for reinforcement learning: Advancing methods for evaluation and detection, <a href="https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p1445.pdf">[paper]</a>
 
 ### Large Time-Series Models
 
-*   [XXX 2024] XXX [paper](XXX)
+*   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
 
 ## OOD evaluation
 
