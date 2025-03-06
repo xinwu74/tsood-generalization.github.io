@@ -13,8 +13,8 @@ Real-world data distributions are often dynamic rather than static and frequentl
 
 ### Covariate Shift
 
-*   [CVPR 2021] Out-of-distribution Detection and Generation using Soft Brownian Offset Sampling and Autoencoders [paper](https://openaccess.thecvf.com/content/CVPR2021W/SAIAD/papers/Moller_Out-of-Distribution_Detection_and_Generation_Using_Soft_Brownian_Offset_Sampling_and_CVPRW_2021_paper.pdf)
-*   [ICLR 2022] Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift [paper](https://openreview.net/pdf?id=cGDAkQo1C0p)
+*   **[CVPR 2021]** Out-of-distribution Detection and Generation using Soft Brownian Offset Sampling and Autoencoders [paper](https://openaccess.thecvf.com/content/CVPR2021W/SAIAD/papers/Moller_Out-of-Distribution_Detection_and_Generation_Using_Soft_Brownian_Offset_Sampling_and_CVPRW_2021_paper.pdf)
+*   <span style="color:red; font-weight:bold;">[ICLR 2022]</span> Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift [paper](https://openreview.net/pdf?id=cGDAkQo1C0p)
 *   [SMC 2022] Feature Importance Identification for Time Series Classifiers [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9945205)
 *   [FUZZ 2023] An Initial Step Towards Stable Explanations for Multivariate Time Series Classifiers with LIME [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10309814)
 *   [Inf. Sci. 2023] Explaining time series classifiers through meaningful perturbation and optimisation [paper](https://www.sciencedirect.com/science/article/pii/S0020025523009192)
@@ -34,7 +34,7 @@ Real-world data distributions are often dynamic rather than static and frequentl
 
 
 ### Decoupling-based Methods
-Multi-Structured Analysis
+Multi-Structured Analysis:
 *   [KDD 2024] Orthogonality Matters: Invariant Time Series Representation for Out-of-distribution Classification [paper](https://dl.acm.org/doi/pdf/10.1145/3637528.3671768)
 *   [TKDE 2024] Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10457027)
 *   [NIPS 2020] Feature Shift Detection: Localizing Which Features Have Shifted via Conditional Distribution Tests [paper](https://proceedings.neurips.cc/paper/2020/file/e2d52448d36918c575fa79d88647ba66-Paper.pdf)
@@ -43,7 +43,7 @@ Multi-Structured Analysis
 *   [ACM TIST 2023] Out-of-distribution Detection in Time-series Domain: A Novel Seasonal Ratio Scoring Approach [paper](https://dl.acm.org/doi/pdf/10.1145/3630633)
 *   [AAAI 2024] MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28991/29883)
 
-Causality-Inspired
+Causality-Inspired:
 *   [CVPR 2021] Causal hidden markov model for time series disease forecasting [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Causal_Hidden_Markov_Model_for_Time_Series_Disease_Forecasting_CVPR_2021_paper.pdf)
 *   [ICRA 2022] Causal-based Time Series Domain Generalization for Vehicle Intention Prediction [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9812188)
 *   [ICML 2023] Neural Stochastic Differential Games for Time-series Analysis [paper](https://proceedings.mlr.press/v202/park23j/park23j.pdf)
@@ -55,10 +55,30 @@ neural networks [paper](https://cap.csail.mit.edu/sites/default/files/research-p
 ### Invariant-based Methods
 Invariant Risk Minimization:
 
-*   [XXX 2024] XXX [paper](XXX)
-*   [XXX 2024] XXX [paper](XXX)
+*   [ICML 2024] Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning [paper](https://openreview.net/pdf?id=SMUXPVKUBg)
+*   [ICRA 2023] Robust Forecasting for Robotic Control: A Game-Theoretic Approach [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10160721)
+*   [WWW 2024] Towards Invariant Time Series Forecasting in Smart Cities [paper](https://dl.acm.org/doi/proceedings/10.1145/3589335?tocHeading=heading10)
+*   [KDD 2023] DoubleAdapt: A Meta-learning Approach to Incremental Learning for Stock Trend Forecasting [paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599315)
+*   [KDD 2023] TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting [paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599533)
+*   [AAAI 2021] Meta-learning framework with applications to zero-shot time-series forecasting [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17115/16922)
+
+Domain-Invariance:
+*   [VR 2024] Generating Virtual Reality Stroke Gesture Data from Out-of-Distribution Desktop Stroke Gesture Data [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10494175)
+*   [AAAI 2024] Generalizing across temporal domains with koopman operators [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29604/31020)
+*   [ICML 2024] Connect later: Improving fine-tuning for robustness with targeted augmentations [paper](https://openreview.net/pdf?id=Uz4Qr40Y3C)
+*   [NIPS 2024] Continuous Temporal Domain Generalization [paper](https://openreview.net/pdf?id=G24fOpC3JE)
+*   [ICLR 2023] Out-of-distribution Representation Learning for Time Series Classification [paper](https://openreview.net/pdf?id=gUZWOE42l6Q)
+*   [TPAMI 2024] Diversify: A General Framework for Time Series Out-of-Distribution Detection and Generalization [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10402053)
+*   [Struct. 2024] Enhancing time series data classification for structural damage detection through out-of-distribution representation learning [paper](https://www.sciencedirect.com/science/article/abs/pii/S2352012424009184)
+*   [ICLR 2021] In-N-Out: Pre-Training and Self-Training using Auxiliary Information for Out-of-Distribution Robustness [paper](https://openreview.net/pdf?id=jznizqvr15J)
+*   [DAC 2024] SMORE: Similarity-based Hyperdimensional Domain Adaptation for Multi-Sensor Time Series Classification [paper](https://dl.acm.org/doi/pdf/10.1145/3649329.3658477) [PPT](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/9/5133/files/2024/07/DAC_2024.pdf)
+*   [NIPS 2023] Evolving Standardization for Continual Domain Generalization over Temporal Drift [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/459a911eb49cd2e0192055ee156d04e5-Paper-Conference.pdf)
+
+
 
 ### Ensemble-based Learning
+
+*   [XXX 2024] XXX [paper](XXX)
 *   [XXX 2024] XXX [paper](XXX)
 
 ### Large Time-Series Models
