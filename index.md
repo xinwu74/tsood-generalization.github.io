@@ -86,12 +86,6 @@ Domain-Invariance Methods:
 ### Large Time-Series Models
 
 
-| head1        | head two          | 
-|:-------------|:------------------|
-| ok           | good swedish fish |
-| out of stock | good and plenty   |
-| ok           | good `oreos`      |
-| ok           | good `zoute` drop |
 
 Tuning-based Methods:
 *   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
@@ -124,6 +118,16 @@ Others:
 *   <span style="color:red;">[XXX 2024]</span> XXX <a href=" ">[paper]</a>
 
 ## Datasets
+
+
+| Paper        | Datasets          | 
+|:-------------|:------------------|
+| [SLIME-MTS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10309814)           | [UEA](https://www.timeseriesclassification.com/index.php) |
+| out of stock | good and plenty   |
+| ok           | good `oreos`      |
+| ok           | good `zoute` drop |
+
+
 | Paper        | Datasets          |
 |:-------------|:------------------|
 | [SLIME-MTS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10309814) | [UEA](https://www.timeseriesclassification.com/index.php) |
