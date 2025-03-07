@@ -112,6 +112,7 @@ Others:
 *   <span style="color:red;">[ICML 2024]</span> Timer: Generative Pre-trained Transformers Are Large Time Series Models <a href="https://dl.acm.org/doi/10.5555/3692070.3693383">[Paper]</a> <a href="https://github.com/thuml/Large-Time-Series-Model">[Code]</a>
 *   <span style="color:red;">[ICML 2024]</span> A Decoder-only Foundation Model for Time-series Forecasting <a href="https://raw.githubusercontent.com/mlresearch/v235/main/assets/das24c/das24c.pdf">[Paper]</a> <a href="https://github.com/google-research/timesfm?tab=readme-ov-file">[Code]</a>
 *   <span style="color:red;">[TMLR 2024]</span> Chronos: Learning the Language of Time Series <a href="https://openreview.net/pdf?id=gerNCVqqtR">[Paper]</a> <a href="https://github.com/amazon-science/chronos-forecasting">[Code]</a>
+*   <span style="color:red;">[ICLR 2025]</span> Towards Neural Scaling Laws for Time Series Foundation Models <a href="https://openreview.net/pdf?id=uCqxDfLYrB">[Paper]</a> <a href="https://github.com/Qingrenn/TSFM-ScalingLaws">[Code]</a>
 
 
 ## Datasets
