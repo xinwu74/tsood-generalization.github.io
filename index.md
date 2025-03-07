@@ -59,6 +59,7 @@ Invariant Risk Minimization Models:
 *   <span style="color:red;">[KDD 2023]</span> TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting <a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599533">[Paper]</a>
 *   <span style="color:red;">[WWW 2024]</span> Towards Invariant Time Series Forecasting in Smart Cities <a href="https://dl.acm.org/doi/proceedings/10.1145/3589335?tocHeading=heading10">[Paper]</a> <a href="https://www.youtube.com/watch?v=7GSY1nYn5g8">[Video]</a>
 *   <span style="color:red;">[ICML 2024]</span> Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning <a href="https://openreview.net/pdf?id=SMUXPVKUBg">[Paper]</a> <a href="https://github.com/AdityaLab/FOIL">[Code]</a>
+*   <span style="color:red;">[ICLR 2025]</span> Out-of-distribution Generalization for Total Variation based Invariant Risk Minimization <a href="https://openreview.net/pdf?id=c4wEKJOjY3">[Paper]</a> <a href="https://github.com/laizhr/OOD-TV-IRM">[Code]</a>
 
 
 Domain-Invariance Methods:
