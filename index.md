@@ -130,7 +130,7 @@ Others:
 
 *   <span style="color:red;">[ArXiv 2021]</span> Towards Out-of-Distribution Generalization: A Survey <a href="https://arxiv.org/pdf/2108.13624">[Paper]</a>
 *   <span style="color:red;">[ArXiv 2022]</span> Out-of-Distribution Generalization on Graphs: A Survey <a href="https://arxiv.org/pdf/2202.07987">[Paper]</a>
-*   <span style="color:red;">[TPAMI 2022]</span> Domain Generalization: A Survey<a href="">[Paper]</a>
+*   <span style="color:red;">[TPAMI 2022]</span> Domain Generalization: A Survey <a href="">[Paper]</a>
 *   <span style="color:red;">[TKDE 2023]</span> Generalizing to Unseen Domains: A Survey on Domain Generalization <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9782500">[Paper]</a>
 *   <span style="color:red;">[ACM Comput. Surv. 2023]</span> Generative Adversarial Networks in Time Series: A Systematic Literature Review <a href="https://dl.acm.org/doi/pdf/10.1145/3559540">[Paper]</a>
 *   <span style="color:red;">[TPAMI 2024]</span> Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10496248">[Paper]</a>
