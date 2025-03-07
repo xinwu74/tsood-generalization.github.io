@@ -54,11 +54,11 @@ Causality-Inspired:
 ### Invariant-based Methods
 Invariant Risk Minimization Models:
 *   <span style="color:red;">[AAAI 2021]</span> Meta-learning Framework with Applications to Zero-shot Time-series Forecasting <a href="https://ojs.aaai.org/index.php/AAAI/article/view/17115/16922">[Paper]</a>
-*   <span style="color:red;">[ICML 2024]</span> Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning <a href="https://openreview.net/pdf?id=SMUXPVKUBg">[Paper]</a> <a href="https://github.com/AdityaLab/FOIL">[Code]</a>
 *   <span style="color:red;">[ICRA 2023]</span> Robust Forecasting for Robotic Control: A Game-Theoretic Approach <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10160721">[Paper]</a>
 *   <span style="color:red;">[KDD 2023]</span> DoubleAdapt: A Meta-learning Approach to Incremental Learning for Stock Trend Forecasting <a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599315">[Paper]</a> <a href="https://github.com/SJTU-DMTai/DoubleAdapt">[Code]</a>
 *   <span style="color:red;">[KDD 2023]</span> TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting <a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599533">[Paper]</a>
 *   <span style="color:red;">[WWW 2024]</span> Towards Invariant Time Series Forecasting in Smart Cities <a href="https://dl.acm.org/doi/proceedings/10.1145/3589335?tocHeading=heading10">[Paper]</a> <a href="https://www.youtube.com/watch?v=7GSY1nYn5g8">[Video]</a>
+*   <span style="color:red;">[ICML 2024]</span> Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning <a href="https://openreview.net/pdf?id=SMUXPVKUBg">[Paper]</a> <a href="https://github.com/AdityaLab/FOIL">[Code]</a>
 
 
 Domain-Invariance Methods:
@@ -86,23 +86,25 @@ Domain-Invariance Methods:
 
 Tuning-based Methods:
 *   <span style="color:red;">[NIPS 2023]</span> ForecastPFN: Synthetically-Trained Zero-Shot Forecasting <a href="https://openreview.net/pdf?id=tScBQRNgjk">[Paper]</a> <a href="https://github.com/abacusai/ForecastPFN">[Code]</a>
-*   <span style="color:red;">[NIPS 2024]</span> Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-shot Forecasting of Multivariate Time Series <a href="https://openreview.net/pdf?id=3O5YCEWETq">[Paper]</a> <a href="https://huggingface.co/ibm-granite/granite-timeseries-ttm-r1">[Code]</a>
-*   <span style="color:red;">[ICASSP 2024]</span> ETP: Learning Transferable ECG Representations via ECG-Text Pre-Training <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10446742">[Paper]</a>
-*   <span style="color:red;">[NIPS 2023]</span> JoLT: Jointly Learned Representations of Language and Time-Series <a href="https://openreview.net/pdf?id=UVF1AMBj9u">[Paper]</a>
-*   <span style="color:red;">[AAAI 2024]</span> JoLT: Jointly Learned Representations of Language and Time-Series for Clinical Time-Series Interpretation (Student Abstract) <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30423/32496">[Paper]</a>
 *   <span style="color:red;">[EACL 2023]</span> Transfer Knowledge from Natural Language to Electrocardiography: Can We Detect Cardiovascular Disease Through Language Models? <a href="https://aclanthology.org/2023.findings-eacl.33.pdf">[Paper]</a> <a href="https://github.com/Jielin-Qiu/Transfer_Knowledge_from_Language_to_ECG">[Code]</a>
+*   <span style="color:red;">[NIPS 2024]</span> Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-shot Forecasting of Multivariate Time Series <a href="https://openreview.net/pdf?id=3O5YCEWETq">[Paper]</a> <a href="https://huggingface.co/ibm-granite/granite-timeseries-ttm-r1">[Code]</a>
+*   <span style="color:red;">[NIPS 2023]</span> JoLT: Jointly Learned Representations of Language and Time-Series <a href="https://openreview.net/pdf?id=UVF1AMBj9u">[Paper]</a>
+*   <span style="color:red;">[ICASSP 2024]</span> ETP: Learning Transferable ECG Representations via ECG-Text Pre-Training <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10446742">[Paper]</a>
+*   <span style="color:red;">[AAAI 2024]</span> JoLT: Jointly Learned Representations of Language and Time-Series for Clinical Time-Series Interpretation (Student Abstract) <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30423/32496">[Paper]</a>
+
 *   <span style="color:red;">[ICLR 2024]</span> Time-LLM: Time Series Forecasting by Reprogramming Large Language Models <a href="https://openreview.net/pdf?id=Unb5CVPtae">[Paper]</a> <a href="https://github.com/KimMeen/Time-LLM">[Code]</a>
-*   <span style="color:red;">[AAAI 2025]</span> CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning <a href="https://arxiv.org/abs/2403.07300">[Paper]</a> <a href="https://github.com/Hank0626/CALF">[Code]</a>
 *   <span style="color:red;">[ICML 2024]</span> Unified Rraining of Universal Time Series Forecasting Transformers <a href="https://dl.acm.org/doi/10.5555/3692070.3694248">[Paper]</a> <a href="https://github.com/SalesforceAIResearch/uni2ts">[Code]</a>  
 *   <span style="color:red;">[CIKM 2024]</span> General Time Transformer: an Encoder-only Foundation Model for Zero-Shot Multivariate Time Series Forecasting <a href="https://dl.acm.org/doi/pdf/10.1145/3627673.3679931">[Paper]</a> <a href="https://github.com/cfeng783/GTT">[Code]</a>
 *   <span style="color:red;">[NIPS 2024]</span> Align and Fine-Tune: Enhancing LLMs for Time-Series Forecasting <a href="https://openreview.net/pdf?id=AaRCmJieG4">[Paper]</a>
 *   <span style="color:red;">[AAAI 2025]</span> ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data <a href="https://arxiv.org/abs/2412.11376">[Paper]</a> <a href="https://github.com/forestsking/chattime">[Code]</a>
+*   <span style="color:red;">[AAAI 2025]</span> CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning <a href="https://arxiv.org/abs/2403.07300">[Paper]</a> <a href="https://github.com/Hank0626/CALF">[Code]</a>
 
 Non-tuning-based Methods:
 *   <span style="color:red;">[NIPS 2023]</span> Large Language Models Are Zero-Shot Time Series Forecasters <a href="https://openreview.net/pdf?id=md68e8iZK1">[Paper]</a> <a href="https://github.com/ngruver/llmtime">[Code]</a>
+*   <span style="color:red;">[ArXiv 2023]</span> Pushing the Limits of Pre-training for Time Series Forecasting in the CloudOps Domain <a href="https://arxiv.org/abs/2310.05063">[Paper]</a> <a href="https://github.com/SalesforceAIResearch/pretrain-time-series-cloudops">[Code]</a>
 *   <span style="color:red;">[ArXiv 2023]</span> TimeGPT-1 <a href="https://arxiv.org/abs/2310.03589">[Paper]</a> <a href="https://github.com/Nixtla/nixtla">[Code]</a>
 *   <span style="color:red;">[ArXiv 2024]</span> TableTime: Reformulating Time Series Classification as Training-Free Table Understanding with Large Language Models <a href="https://arxiv.org/abs/2411.15737">[Paper]</a> <a href="https://github.com/realwangjiahao/tabletime">[Code]</a>
-*   <span style="color:red;">[ArXiv 2023]</span> Pushing the Limits of Pre-training for Time Series Forecasting in the CloudOps Domain <a href="https://arxiv.org/abs/2310.05063">[Paper]</a> <a href="https://github.com/SalesforceAIResearch/pretrain-time-series-cloudops">[Code]</a>
+
 
 Others:
 *   <span style="color:red;">[NIPS 2023]</span> One Fits All: Power General Time Series Analysis by Pretrained LM <a href="https://openreview.net/pdf?id=gMS6FVZvmF">[Paper]</a> <a href="https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All">[Code]</a>
