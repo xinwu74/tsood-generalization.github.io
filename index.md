@@ -91,7 +91,6 @@ Tuning-based Methods:
 *   <span style="color:red;">[NIPS 2023]</span> JoLT: Jointly Learned Representations of Language and Time-Series <a href="https://openreview.net/pdf?id=UVF1AMBj9u">[Paper]</a>
 *   <span style="color:red;">[ICASSP 2024]</span> ETP: Learning Transferable ECG Representations via ECG-Text Pre-Training <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10446742">[Paper]</a>
 *   <span style="color:red;">[AAAI 2024]</span> JoLT: Jointly Learned Representations of Language and Time-Series for Clinical Time-Series Interpretation (Student Abstract) <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30423/32496">[Paper]</a>
-
 *   <span style="color:red;">[ICLR 2024]</span> Time-LLM: Time Series Forecasting by Reprogramming Large Language Models <a href="https://openreview.net/pdf?id=Unb5CVPtae">[Paper]</a> <a href="https://github.com/KimMeen/Time-LLM">[Code]</a>
 *   <span style="color:red;">[ICML 2024]</span> Unified Rraining of Universal Time Series Forecasting Transformers <a href="https://dl.acm.org/doi/10.5555/3692070.3694248">[Paper]</a> <a href="https://github.com/SalesforceAIResearch/uni2ts">[Code]</a>  
 *   <span style="color:red;">[CIKM 2024]</span> General Time Transformer: an Encoder-only Foundation Model for Zero-Shot Multivariate Time Series Forecasting <a href="https://dl.acm.org/doi/pdf/10.1145/3627673.3679931">[Paper]</a> <a href="https://github.com/cfeng783/GTT">[Code]</a>
