@@ -19,17 +19,37 @@
   <body>
     <header>
       <div class="inner">
+        <!-- 直接跳转到 GitHub 仓库，如果没有仓库地址，则跳转到 GitHub 主页 -->
+        <a href="{{ site.github.repository_url | default: 'https://github.com' }}">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        </a>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+    
+        <!-- GitHub 仓库按钮 -->
+        <a href="{{ site.github.repository_url | default: 'https://github.com' }}" class="button">
+            <small>View project on</small> GitHub
+        </a>
+        
+        <!-- GitHub 用户主页按钮 -->
+        {% if site.github.is_user_page %}
+            <a href="{{ site.github.owner_url | default: 'https://github.com' }}" class="button">
+                <small>Follow me on</small> GitHub
+            </a>
+        {% endif %}
+    </div>
+    
+      <!-- <div class="inner">
         <a href="{{ '/' | absolute_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-        <!-- {% if site.github.is_project_page %} -->
+        {% if site.github.is_project_page %}
           <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
-        <!-- {% endif %}
+        {% endif %}
         {% if site.github.is_user_page %}
           <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
-        {% endif %} -->
-      </div>
+        {% endif %}
+      </div> -->
     </header>
 
     <div id="content-wrapper">
