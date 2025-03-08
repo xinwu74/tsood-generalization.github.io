@@ -116,16 +116,42 @@ Others:
 *   <span style="color:red;">[ICLR 2025]</span> Towards Neural Scaling Laws for Time Series Foundation Models <a href="https://openreview.net/pdf?id=uCqxDfLYrB">[Paper]</a> <a href="https://github.com/Qingrenn/TSFM-ScalingLaws">[Code]</a>
 
 
-## Datasets
+## Time Series Datasets 📊
 
-| Paper        | Datasets          | 
+📌 General Time Series
+- 💾 [UEA Classification](https://www.timeseriesclassification.com/index.php) – A rich set of time series datasets for classification tasks.
+- 📊 [UCR Archive](https://www.cs.ucr.edu/~eamonn/time_series_data_2018) – Benchmark datasets for time series research.
+
+💰 Economy & Finance
+- 📈 [PPA Dataset](https://github.com/LilJing/causal_hmm) – Causal inference data for Power Purchase Agreements.
+- 💹 [Exchange Rate](https://github.com/laiguokun/multivariate-time-series-data/tree/master/electricity) – Historical exchange rates for financial forecasting.
+
+🚗 Transportation
+- 🛣 [SIP Traffic](https://data.cic-tp.com/h5/sample-data/china/export-data/company/suzhou-industrial-park) – Traffic data from Suzhou Industrial Park.
+- 🚌 [METR-LA](https://www.kaggle.com/datasets/annnnguyen/metr-la-dataset) – Los Angeles traffic sensor data.
+- ✈️ [Flight Data](https://opensky-network.org) – Aircraft trajectory & air traffic data.
+- 🚦 [Traffic Flow](https://github.com/laiguokun/multivariate-time-series-data) – Multi-city traffic congestion datasets.
+
+⚡ Energy & Environment
+- 🔋 [Electricity Load](https://github.com/laiguokun/multivariate-time-series-data/tree/master/electricity) – Power consumption data for energy forecasting.
+- ☀️ [Solar Energy](https://github.com/laiguokun/multivariate-time-series-data) – Solar power generation datasets.
+- 🌦 [Weather & ETT](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy) – Meteorological time series for climate analysis.
+
+🌫 Air Quality
+- 🌍 [KnowAir PM2.5](https://github.com/shuowang-ai/PM2.5-GNN) – Air pollution dataset focusing on PM2.5 levels.
+
+🛠 More Datasets
+- 📚 [Multivariate Time Series](https://github.com/laiguokun/multivariate-time-series-data) – Traffic, electricity, solar, and financial datasets.
+
+
+<!-- | Paper        | Datasets          | 
 |:-------------|:------------------|
 | [SLIME-MTS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10309814)           | [UEA](https://www.timeseriesclassification.com/index.php) |
 | [Causal-HMM](https://github.com/LilJing/causal_hmm) | [In-house data on PPA](https://github.com/LilJing/causal_hmm) |
 | [TimeX++](https://www.cs.ucr.edu/~eamonn/time_series_data_2018) | [UCR](https://www.cs.ucr.edu/~eamonn/time_series_data_2018) |
 | [CauSTG](https://data.cic-tp.com/h5/sample-data/china/export-data/company/suzhou-industrial-park) | [SIP]({https://data.cic-tp.com/h5/sample-data/china/export-data/company/suzhou-industrial-park), [METR-LA](https://www.kaggle.com/datasets/annnnguyen/metr-la-dataset), [KnowAir](https://github.com/shuowang-ai/PM2.5-GNN), [Electricity](https://github.com/laiguokun/multivariate-time-series-data/tree/master/electricity) |
 | [SCNN](https://github.com/laiguokun/multivariate-time-series-data) | [Traffic, Solar-energy, Electricity, Exchange-rate](https://github.com/laiguokun/multivariate-time-series-data) |
-| [MSGNet](https://opensky-network.org/) | [Flight](https://opensky-network.org), [Weather, ETT](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy), [Exchange-Rate, Electricity](https://github.com/laiguokun/multivariate-time-series-data/tree/master/electricity) |
+| [MSGNet](https://opensky-network.org/) | [Flight](https://opensky-network.org), [Weather, ETT](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy), [Exchange-Rate, Electricity](https://github.com/laiguokun/multivariate-time-series-data/tree/master/electricity) | -->
 
 
 ## Other Related Papers
