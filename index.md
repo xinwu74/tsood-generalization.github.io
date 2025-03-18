@@ -35,7 +35,7 @@ Representation learning enhances generalization by extracting robust and general
 
 ### Decoupling-based Methods
 Multi-Structured Analysis:
-*   <span style="color:red;">[NIPS 2020]</span> Feature Shift Detection: Localizing Which Features Have Shifted via Conditional Distribution Tests <a href="https://proceedings.neurips.cc/paper/2020/file/e2d52448d36918c575fa79d88647ba66-Paper.pdf">[Paper]</a> <a href="https://github.com/inouye-lab/feature-shift">[Code]</a>
+*   <span style="color:red;">[NeurIPS 2020]</span> Feature Shift Detection: Localizing Which Features Have Shifted via Conditional Distribution Tests <a href="https://proceedings.neurips.cc/paper/2020/file/e2d52448d36918c575fa79d88647ba66-Paper.pdf">[Paper]</a> <a href="https://github.com/inouye-lab/feature-shift">[Code]</a>
 *   <span style="color:red;">[IJCNN 2021]</span> Unsupervised Energy-based Out-of-distribution Detection using Stiefel-Restricted Kernel Machine <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9533706">[Paper]</a> <a href="https://github.com/taralloc/st-rkm-ood">[Code]</a>
 *   <span style="color:red;">[ACM TCPS 2022]</span> Efficient Out-of-Distribution Detection Using Latent Space of β-VAE for Cyber-Physical Systems <a href="https://dl.acm.org/doi/pdf/10.1145/3491243">[Paper]</a> <a href="https://github.com/scope-lab-vu/Beta-VAE-OOD-Detector">[Code]</a>
 *   <span style="color:red;">[ACM TIST 2023]</span> Out-of-distribution Detection in Time-series Domain: A Novel Seasonal Ratio Scoring Approach <a href="https://dl.acm.org/doi/pdf/10.1145/3630633">[Paper]</a> <a href="https://github.com/tahabelkhouja/SRS">[Code]</a>
@@ -64,12 +64,12 @@ Invariant Risk Minimization Models:
 
 Domain-Invariance Methods:
 *   <span style="color:red;">[ICLR 2021]</span> In-N-Out: Pre-Training and Self-Training using Auxiliary Information for Out-of-Distribution Robustness <a href="https://openreview.net/pdf?id=jznizqvr15J">[Paper]</a> <a href="https://github.com/p-lambda/in-n-out">[Code]</a>
-*   <span style="color:red;">[NIPS 2023]</span> Evolving Standardization for Continual Domain Generalization over Temporal Drift <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/459a911eb49cd2e0192055ee156d04e5-Paper-Conference.pdf">[Paper]</a> <a href="https://github.com/BIT-DA/EvoS">[Code]</a>
+*   <span style="color:red;">[NeurIPS 2023]</span> Evolving Standardization for Continual Domain Generalization over Temporal Drift <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/459a911eb49cd2e0192055ee156d04e5-Paper-Conference.pdf">[Paper]</a> <a href="https://github.com/BIT-DA/EvoS">[Code]</a>
 *   <span style="color:red;">[ICLR 2023]</span> Out-of-distribution Representation Learning for Time Series Classification <a href="https://openreview.net/pdf?id=gUZWOE42l6Q">[Paper]</a> <a href="https://github.com/lrx0014/DiversifyAnalysis">[Code]</a>
 *   <span style="color:red;">[VR 2024]</span> Generating Virtual Reality Stroke Gesture Data from Out-of-Distribution Desktop Stroke Gesture Data <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10494175">[Paper]</a> <a href="https://github.com/yuanlinping/VRStrokeOOD">[Code]</a>
 *   <span style="color:red;">[AAAI 2024]</span> Generalizing across Temporal Domains with Koopman Operators <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29604/31020">[Paper]</a> <a href="https://github.com/HardworkingPearl/TKNets-AAAI2024">[Code]</a>
 *   <span style="color:red;">[ICML 2024]</span> Connect later: Improving fine-tuning for robustness with targeted augmentations <a href="https://openreview.net/pdf?id=Uz4Qr40Y3C">[Paper]</a>
-*   <span style="color:red;">[NIPS 2024]</span> Continuous Temporal Domain Generalization <a href="https://openreview.net/pdf?id=G24fOpC3JE">[Paper]</a> <a href="https://github.com/Zekun-Cai/Koodos">[Code]</a>
+*   <span style="color:red;">[NeurIPS 2024]</span> Continuous Temporal Domain Generalization <a href="https://openreview.net/pdf?id=G24fOpC3JE">[Paper]</a> <a href="https://github.com/Zekun-Cai/Koodos">[Code]</a>
 *   <span style="color:red;">[TPAMI 2024]</span> Diversify: A General Framework for Time Series Out-of-Distribution Detection and Generalization <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10402053">[Paper]</a> <a href="https://microsoft.github.io/robustlearn/diversify">[Code]</a>
 *   <span style="color:red;">[Struct. 2024]</span> Enhancing Time Series Data Classification for Structural Damage Detection through Out-of-Distribution Representation Learning <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352012424009184">[Paper]</a>
 *   <span style="color:red;">[DAC 2024]</span> SMORE: Similarity-based Hyperdimensional Domain Adaptation for Multi-Sensor Time Series Classification <a href="https://dl.acm.org/doi/pdf/10.1145/3649329.3658477">[Paper]</a> <a href="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/9/5133/files/2024/07/DAC_2024.pdf">[PPT]</a>
@@ -86,28 +86,28 @@ Domain-Invariance Methods:
 ### Large Time-Series Models
 
 Tuning-based Methods:
-*   <span style="color:red;">[NIPS 2023]</span> ForecastPFN: Synthetically-Trained Zero-Shot Forecasting <a href="https://openreview.net/pdf?id=tScBQRNgjk">[Paper]</a> <a href="https://github.com/abacusai/ForecastPFN">[Code]</a>
+*   <span style="color:red;">[NeurIPS 2023]</span> ForecastPFN: Synthetically-Trained Zero-Shot Forecasting <a href="https://openreview.net/pdf?id=tScBQRNgjk">[Paper]</a> <a href="https://github.com/abacusai/ForecastPFN">[Code]</a>
 *   <span style="color:red;">[EACL 2023]</span> Transfer Knowledge from Natural Language to Electrocardiography: Can We Detect Cardiovascular Disease Through Language Models? <a href="https://aclanthology.org/2023.findings-eacl.33.pdf">[Paper]</a> <a href="https://github.com/Jielin-Qiu/Transfer_Knowledge_from_Language_to_ECG">[Code]</a>
-*   <span style="color:red;">[NIPS 2024]</span> Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-shot Forecasting of Multivariate Time Series <a href="https://openreview.net/pdf?id=3O5YCEWETq">[Paper]</a> <a href="https://huggingface.co/ibm-granite/granite-timeseries-ttm-r1">[Code]</a>
-*   <span style="color:red;">[NIPS 2023]</span> JoLT: Jointly Learned Representations of Language and Time-Series <a href="https://openreview.net/pdf?id=UVF1AMBj9u">[Paper]</a>
+*   <span style="color:red;">[NeurIPS 2024]</span> Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-shot Forecasting of Multivariate Time Series <a href="https://openreview.net/pdf?id=3O5YCEWETq">[Paper]</a> <a href="https://huggingface.co/ibm-granite/granite-timeseries-ttm-r1">[Code]</a>
+*   <span style="color:red;">[NeurIPS 2023]</span> JoLT: Jointly Learned Representations of Language and Time-Series <a href="https://openreview.net/pdf?id=UVF1AMBj9u">[Paper]</a>
 *   <span style="color:red;">[ICASSP 2024]</span> ETP: Learning Transferable ECG Representations via ECG-Text Pre-Training <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10446742">[Paper]</a>
 *   <span style="color:red;">[AAAI 2024]</span> JoLT: Jointly Learned Representations of Language and Time-Series for Clinical Time-Series Interpretation (Student Abstract) <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30423/32496">[Paper]</a>
 *   <span style="color:red;">[ICLR 2024]</span> Time-LLM: Time Series Forecasting by Reprogramming Large Language Models <a href="https://openreview.net/pdf?id=Unb5CVPtae">[Paper]</a> <a href="https://github.com/KimMeen/Time-LLM">[Code]</a>
 *   <span style="color:red;">[ICML 2024]</span> Unified Rraining of Universal Time Series Forecasting Transformers <a href="https://dl.acm.org/doi/10.5555/3692070.3694248">[Paper]</a> <a href="https://github.com/SalesforceAIResearch/uni2ts">[Code]</a>  
 *   <span style="color:red;">[CIKM 2024]</span> General Time Transformer: an Encoder-only Foundation Model for Zero-Shot Multivariate Time Series Forecasting <a href="https://dl.acm.org/doi/pdf/10.1145/3627673.3679931">[Paper]</a> <a href="https://github.com/cfeng783/GTT">[Code]</a>
-*   <span style="color:red;">[NIPS 2024]</span> Align and Fine-Tune: Enhancing LLMs for Time-Series Forecasting <a href="https://openreview.net/pdf?id=AaRCmJieG4">[Paper]</a>
+*   <span style="color:red;">[NeurIPS 2024]</span> Align and Fine-Tune: Enhancing LLMs for Time-Series Forecasting <a href="https://openreview.net/pdf?id=AaRCmJieG4">[Paper]</a>
 *   <span style="color:red;">[AAAI 2025]</span> ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data <a href="https://arxiv.org/abs/2412.11376">[Paper]</a> <a href="https://github.com/forestsking/chattime">[Code]</a>
 *   <span style="color:red;">[AAAI 2025]</span> CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning <a href="https://arxiv.org/abs/2403.07300">[Paper]</a> <a href="https://github.com/Hank0626/CALF">[Code]</a>
 
 Non-tuning-based Methods:
-*   <span style="color:red;">[NIPS 2023]</span> Large Language Models Are Zero-Shot Time Series Forecasters <a href="https://openreview.net/pdf?id=md68e8iZK1">[Paper]</a> <a href="https://github.com/ngruver/llmtime">[Code]</a>
+*   <span style="color:red;">[NeurIPS 2023]</span> Large Language Models Are Zero-Shot Time Series Forecasters <a href="https://openreview.net/pdf?id=md68e8iZK1">[Paper]</a> <a href="https://github.com/ngruver/llmtime">[Code]</a>
 *   <span style="color:red;">[ArXiv 2023]</span> Pushing the Limits of Pre-training for Time Series Forecasting in the CloudOps Domain <a href="https://arxiv.org/abs/2310.05063">[Paper]</a> <a href="https://github.com/SalesforceAIResearch/pretrain-time-series-cloudops">[Code]</a>
 *   <span style="color:red;">[ArXiv 2023]</span> TimeGPT-1 <a href="https://arxiv.org/abs/2310.03589">[Paper]</a> <a href="https://github.com/Nixtla/nixtla">[Code]</a>
 *   <span style="color:red;">[ArXiv 2024]</span> TableTime: Reformulating Time Series Classification as Training-Free Table Understanding with Large Language Models <a href="https://arxiv.org/abs/2411.15737">[Paper]</a> <a href="https://github.com/realwangjiahao/tabletime">[Code]</a>
 
 
-Others:
-*   <span style="color:red;">[NIPS 2023]</span> One Fits All: Power General Time Series Analysis by Pretrained LM <a href="https://openreview.net/pdf?id=gMS6FVZvmF">[Paper]</a> <a href="https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All">[Code]</a>
+Full-training-based (training from scratch):
+*   <span style="color:red;">[NeurIPS 2023]</span> One Fits All: Power General Time Series Analysis by Pretrained LM <a href="https://openreview.net/pdf?id=gMS6FVZvmF">[Paper]</a> <a href="https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All">[Code]</a>
 *   <span style="color:red;">[R0-FoMo 2023]</span> Lag-Llama: Towards Foundation Models for Time Series Forecasting <a href="https://openreview.net/pdf?id=jYluzCLFDM">[Paper]</a> <a href="https://github.com/time-series-foundation-models/lag-llama">[Code]</a>
 *   <span style="color:red;">[ICML 2024]</span> MOMENT: A Family of Open Time-series Foundation Models <a href="file:///Users/xinwu/Downloads/goswami24a.pdf">[Paper]</a> <a href="https://github.com/moment-timeseries-foundation-model/moment">[Code]</a>
 *   <span style="color:red;">[ICML 2024]</span> Timer: Generative Pre-trained Transformers Are Large Time Series Models <a href="https://dl.acm.org/doi/10.5555/3692070.3693383">[Paper]</a> <a href="https://github.com/thuml/Large-Time-Series-Model">[Code]</a>
@@ -168,21 +168,3 @@ Last updated on March 7, 2025. (For problems, contact xinwu5386@gmail.com. To ad
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=q6eVgeaBn-p2jkFoYf-6vSskb8SxHJqWuia9GW0Q_AE"></script>
 </div>
 
-
-
-<!-- | Paper        | Datasets          | 
-|:-------------|:------------------|
-| [SLIME-MTS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10309814)           | [UEA](https://www.timeseriesclassification.com/index.php) |
-| [Causal-HMM](https://github.com/LilJing/causal_hmm) | [In-house data on PPA](https://github.com/LilJing/causal_hmm) |
-| [TimeX++](https://www.cs.ucr.edu/~eamonn/time_series_data_2018) | [UCR](https://www.cs.ucr.edu/~eamonn/time_series_data_2018) |
-| [CauSTG](https://data.cic-tp.com/h5/sample-data/china/export-data/company/suzhou-industrial-park) | [SIP]({https://data.cic-tp.com/h5/sample-data/china/export-data/company/suzhou-industrial-park), [METR-LA](https://www.kaggle.com/datasets/annnnguyen/metr-la-dataset), [KnowAir](https://github.com/shuowang-ai/PM2.5-GNN), [Electricity](https://github.com/laiguokun/multivariate-time-series-data/tree/master/electricity) |
-| [SCNN](https://github.com/laiguokun/multivariate-time-series-data) | [Traffic, Solar-energy, Electricity, Exchange-rate](https://github.com/laiguokun/multivariate-time-series-data) |
-| [MSGNet](https://opensky-network.org/) | [Flight](https://opensky-network.org), [Weather, ETT](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy), [Exchange-Rate, Electricity](https://github.com/laiguokun/multivariate-time-series-data/tree/master/electricity) | -->
-
-<!-- |:------------------|
-| [UEA](https://www.timeseriesclassification.com/index.php) |
-| [In-house data on PPA](https://github.com/LilJing/causal_hmm) |
-| [UCR](https://www.cs.ucr.edu/~eamonn/time_series_data_2018) |
-| [SIP](https://data.cic-tp.com/h5/sample-data/china/export-data/company/suzhou-industrial-park), [METR-LA](https://www.kaggle.com/datasets/annnnguyen/metr-la-dataset), [KnowAir](https://github.com/shuowang-ai/PM2.5-GNN), [Electricity](https://github.com/laiguokun/multivariate-time-series-data/tree/master/electricity) |
-| [Traffic, Solar-energy, Electricity, Exchange-rate](https://github.com/laiguokun/multivariate-time-series-data) |
-| [Flight](https://opensky-network.org), [Weather, ETT](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy), [Exchange-Rate, Electricity](https://github.com/laiguokun/multivariate-time-series-data/tree/master/electricity) | -->
