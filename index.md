@@ -129,7 +129,7 @@ Full-training-based (training from scratch):
 🚗 Transportation
 - 🛣 [SIP Traffic](https://data.cic-tp.com/h5/sample-data/china/export-data/company/suzhou-industrial-park) – Traffic data from Suzhou Industrial Park.
 - 🚌 [METR-LA](https://www.kaggle.com/datasets/annnnguyen/metr-la-dataset) – Los Angeles traffic sensor data.
-- ✈️ [Flight Data](https://opensky-network.org) – Aircraft trajectory & air traffic data.
+- ✈️ [Flight Data](https://opensky-network.org) – Aircraft trajectory & air traffic. data.
 - 🚦 [Traffic Flow](https://github.com/laiguokun/multivariate-time-series-data) – Multi-city traffic congestion datasets.
 
 ⚡ Energy & Environment
@@ -140,8 +140,18 @@ Full-training-based (training from scratch):
 🌫 Air Quality
 - 🌍 [KnowAir PM2.5](https://github.com/shuowang-ai/PM2.5-GNN) – Air pollution dataset focusing on PM2.5 levels.
 
+🏥 Health & Medicine
+- 🦾 [EMG](https://archive.ics.uci.edu/dataset/481/emg+data+for+gestures) - Electromyography dataset records muscle activity.
+
+
+⌚️ Human Activity Recognition
+- 🏃🏻‍♀️ [UCIHAR](https://drive.google.com/drive/folders/1-ZRlJnDjS6KcRQMVaK80ogqK_F4CyWfZ) - Smartphone-based human activity recognition dataset.
+- 🩼 [UniMiB SHAR](https://drive.google.com/drive/folders/1-ZRlJnDjS6KcRQMVaK80ogqK_F4CyWfZ) - Smartphone-based human activity recognition and fall detection dataset.
+- 📱 [Opportunity](https://drive.google.com/drive/folders/1-ZRlJnDjS6KcRQMVaK80ogqK_F4CyWfZ) - Multiple wearable and environmental sensors for human activity recognition dataset.
+
 🛠 More Datasets
 - 📚 [Multivariate Time Series](https://github.com/laiguokun/multivariate-time-series-data) – Traffic, electricity, solar, and financial datasets.
+
 
 ## Other Related Papers
 
