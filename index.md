@@ -64,6 +64,7 @@ Invariant Risk Minimization Models:
 
 Domain-Invariance Methods:
 *   <span style="color:red;">[ICLR 2021]</span> In-N-Out: Pre-Training and Self-Training using Auxiliary Information for Out-of-Distribution Robustness <a href="https://openreview.net/pdf?id=jznizqvr15J">[Paper]</a> <a href="https://github.com/p-lambda/in-n-out">[Code]</a>
+*  <span style="color:red;">[AAAI 2021]</span> Latent independent excitation for generalizable sensor-based cross-person activity recognition <a href="https://ojs.aaai.org/index.php/AAAI/article/view/17416/17223">[Paper]</a> <a href="https://github.com/Hangwei12358/cross-person-HAR">[Code]</a>
 *   <span style="color:red;">[NeurIPS 2023]</span> Evolving Standardization for Continual Domain Generalization over Temporal Drift <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/459a911eb49cd2e0192055ee156d04e5-Paper-Conference.pdf">[Paper]</a> <a href="https://github.com/BIT-DA/EvoS">[Code]</a>
 *   <span style="color:red;">[ICLR 2023]</span> Out-of-distribution Representation Learning for Time Series Classification <a href="https://openreview.net/pdf?id=gUZWOE42l6Q">[Paper]</a> <a href="https://github.com/lrx0014/DiversifyAnalysis">[Code]</a>
 *   <span style="color:red;">[VR 2024]</span> Generating Virtual Reality Stroke Gesture Data from Out-of-Distribution Desktop Stroke Gesture Data <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10494175">[Paper]</a> <a href="https://github.com/yuanlinping/VRStrokeOOD">[Code]</a>
