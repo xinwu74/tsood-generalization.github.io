@@ -147,16 +147,16 @@ Full-training-based (training from scratch):
 
 *   <span style="color:red;">[ArXiv 2021]</span> Towards Out-of-Distribution Generalization: A Survey <a href="https://arxiv.org/pdf/2108.13624">[Paper]</a>
 *   <span style="color:red;">[ArXiv 2022]</span> Out-of-Distribution Generalization on Graphs: A Survey <a href="https://arxiv.org/pdf/2202.07987">[Paper]</a>
-*   <span style="color:red;">[TPAMI 2022]</span> Domain Generalization: A Survey <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9847099">[Paper]</a>
+<!-- *   <span style="color:red;">[TPAMI 2022]</span> Domain Generalization: A Survey <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9847099">[Paper]</a> -->
 *   <span style="color:red;">[EMNLP 2023]</span> Out-of-Distribution Generalization in Natural Language Processing: Past, Present, and Future <a href="https://aclanthology.org/2023.emnlp-main.276.pdf">[Paper]</a>
-*   <span style="color:red;">[TKDE 2023]</span> Generalizing to Unseen Domains: A Survey on Domain Generalization <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9782500">[Paper]</a>
+<!-- *   <span style="color:red;">[TKDE 2023]</span> Generalizing to Unseen Domains: A Survey on Domain Generalization <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9782500">[Paper]</a> -->
 *   <span style="color:red;">[ACM Comput. Surv. 2023]</span> Generative Adversarial Networks in Time Series: A Systematic Literature Review <a href="https://dl.acm.org/doi/pdf/10.1145/3559540">[Paper]</a>
 *   <span style="color:red;">[TPAMI 2024]</span> Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10496248">[Paper]</a>
 *   <span style="color:red;">[TPAMI 2024]</span> A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10636792">[Paper]</a>
 *   <span style="color:red;">[TKDE 2024]</span> A Survey on Time-Series Pre-Trained
 models <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10706809">[Paper]</a>
 *   <span style="color:red;">[TMLR 2024]</span> WOODS: Benchmarks for Out-of-Distribution Generalization in Time Series <a href="https://openreview.net/pdf?id=mvftzofTYQ">[Paper]</a>
-*   <span style="color:red;">[IJCV 2024]</span> Generalized Out-of-Distribution Detection: A Survey <a href="https://link.springer.com/article/10.1007/s11263-024-02117-4">[Paper]</a>
+<!-- *   <span style="color:red;">[IJCV 2024]</span> Generalized Out-of-Distribution Detection: A Survey <a href="https://link.springer.com/article/10.1007/s11263-024-02117-4">[Paper]</a> -->
 
 
 #### Acknowledgement
