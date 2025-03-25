@@ -146,9 +146,9 @@ Full-training-based (training from scratch):
 
 
 ⌚️ Human Activity Recognition
-- 🏃🏻‍♀️ [UCIHAR](https://drive.google.com/drive/folders/1-ZRlJnDjS6KcRQMVaK80ogqK_F4CyWfZ) - Smartphone-based human activity recognition dataset.
-- 🩼 [UniMiB SHAR](https://drive.google.com/drive/folders/1-ZRlJnDjS6KcRQMVaK80ogqK_F4CyWfZ) - Smartphone-based human activity recognition and fall detection dataset.
-- 📱 [Opportunity](https://drive.google.com/drive/folders/1-ZRlJnDjS6KcRQMVaK80ogqK_F4CyWfZ) - Multiple wearable and environmental sensors for human activity recognition dataset.
+- 🏃🏻‍♀️ [UCIHAR](https://drive.google.com/drive/folders/1JjEZaVDYHaV7z4hz-fWgoJ9PToR9SOtZ) - Smartphone-based human activity recognition dataset.
+- 🩼 [UniMiB SHAR](htthttps://drive.google.com/drive/folders/1JjEZaVDYHaV7z4hz-fWgoJ9PToR9SOtZ) - Smartphone-based human activity recognition and fall detection dataset.
+- 📱 [Opportunity](https://drive.google.com/drive/folders/1JjEZaVDYHaV7z4hz-fWgoJ9PToR9SOtZ) - Multiple wearable and environmental sensors for human activity recognition dataset.
 
 🛠 More Datasets
 - 📚 [Multivariate Time Series](https://github.com/laiguokun/multivariate-time-series-data) – Traffic, electricity, solar, and financial datasets.
