@@ -69,7 +69,7 @@ Domain-Invariance Methods:
 *   <span style="color:red;">[ICLR 2023]</span> Out-of-distribution Representation Learning for Time Series Classification <a href="https://openreview.net/pdf?id=gUZWOE42l6Q">[Paper]</a> <a href="https://github.com/lrx0014/DiversifyAnalysis">[Code]</a>
 *   <span style="color:red;">[VR 2024]</span> Generating Virtual Reality Stroke Gesture Data from Out-of-Distribution Desktop Stroke Gesture Data <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10494175">[Paper]</a> <a href="https://github.com/yuanlinping/VRStrokeOOD">[Code]</a>
 *   <span style="color:red;">[AAAI 2024]</span> Generalizing across Temporal Domains with Koopman Operators <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29604/31020">[Paper]</a> <a href="https://github.com/HardworkingPearl/TKNets-AAAI2024">[Code]</a>
-*   <span style="color:red;">[ICML 2024]</span> Connect later: Improving fine-tuning for robustness with targeted augmentations <a href="https://openreview.net/pdf?id=Uz4Qr40Y3C">[Paper]</a>
+*   <span style="color:red;">[ICML 2024]</span> Connect later: Improving fine-tuning for robustness with targeted augmentations <a href="https://openreview.net/pdf?id=Uz4Qr40Y3C">[Paper]</a> <a href="https://github.com/helenqu/connect-later">[Code]</a>
 *   <span style="color:red;">[NeurIPS 2024]</span> Continuous Temporal Domain Generalization <a href="https://openreview.net/pdf?id=G24fOpC3JE">[Paper]</a> <a href="https://github.com/Zekun-Cai/Koodos">[Code]</a>
 *   <span style="color:red;">[TPAMI 2024]</span> Diversify: A General Framework for Time Series Out-of-Distribution Detection and Generalization <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10402053">[Paper]</a> <a href="https://microsoft.github.io/robustlearn/diversify">[Code]</a>
 *   <span style="color:red;">[Struct. 2024]</span> Enhancing Time Series Data Classification for Structural Damage Detection through Out-of-Distribution Representation Learning <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352012424009184">[Paper]</a>
@@ -172,7 +172,7 @@ models <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1070680
 
 #### Acknowledgement
 
-Last updated on March 7, 2025. (For problems, contact xinwu5386@gmail.com. To add papers, please pull request at <a href="https://github.com/tsood-generalization/tsood-generalization.github.io">our repo</a>)
+Last updated on April 3, 2025. (For problems, contact xinwu5386@gmail.com. To add papers, please pull request at <a href="https://github.com/tsood-generalization/tsood-generalization.github.io">our repo</a>)
 
 <div style="width: 200px; height: 150px; margin: 0 auto;">
 <!-- Map Widget -->
