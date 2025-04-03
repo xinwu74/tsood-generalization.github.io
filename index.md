@@ -22,7 +22,7 @@ Real-world data distributions are often dynamic rather than static and frequentl
 *   <span style="color:red;">[VR 2024]</span> Generating Virtual Reality Stroke Gesture Data from Out-of-Distribution Desktop Stroke Gesture Data <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10494175">[Paper]</a> <a href="https://github.com/yuanlinping/VRStrokeOOD">[Code]</a>
 *   <span style="color:red;">[AAAI 2024]</span> Generalizing across Temporal Domains with Koopman Operators <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29604/31020">[Paper]</a> <a href="https://github.com/HardworkingPearl/TKNets-AAAI2024">[Code]</a>
 *   <span style="color:red;">[IJCAI 2024]</span> Temporal Domain Generalization via Learning Instance-level Evolving Patterns <a href="https://www.ijcai.org/proceedings/2024/0470.pdf">[Paper]</a> <a href="https://github.com/JinYujie99/CTOT">[Code]</a>
-*   <span style="color:red;">[ICML 2024]</span> Connect later: Improving fine-tuning for robustness with targeted augmentations <a href=" https://openreview.net/pdf?id=Uz4Qr40Y3C">[Paper]</a>
+*   <span style="color:red;">[ICML 2024]</span> Connect later: Improving fine-tuning for robustness with targeted augmentations <a href=" https://openreview.net/pdf?id=Uz4Qr40Y3C">[Paper]</a> <a href="https://github.com/helenqu/connect-later">[Code]</a>
 *   <span style="color:red;">[ICML 2024]</span> TimeX++: Learning Time-Series Explanations with Information Bottleneck <a href="https://openreview.net/pdf?id=t6dBpwkbea">[Paper]</a> <a href="https://github.com/zichuan-liu/TimeXplusplus">[Code]</a>
 
 ### Concept Shift
@@ -53,10 +53,10 @@ Causality-Inspired:
 
 ### Invariant-based Methods
 Invariant Risk Minimization Models:
-*   <span style="color:red;">[AAAI 2021]</span> Meta-learning Framework with Applications to Zero-shot Time-series Forecasting <a href="https://ojs.aaai.org/index.php/AAAI/article/view/17115/16922">[Paper]</a>
+*   <span style="color:red;">[AAAI 2021]</span> Meta-learning Framework with Applications to Zero-shot Time-series Forecasting <a href="https://ojs.aaai.org/index.php/AAAI/article/view/17115/16922">[Paper]</a> <a href="https://github.com/DFrolova/ml-sk-project">[Code]</a>
 *   <span style="color:red;">[ICRA 2023]</span> Robust Forecasting for Robotic Control: A Game-Theoretic Approach <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10160721">[Paper]</a>
 *   <span style="color:red;">[KDD 2023]</span> DoubleAdapt: A Meta-learning Approach to Incremental Learning for Stock Trend Forecasting <a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599315">[Paper]</a> <a href="https://github.com/SJTU-DMTai/DoubleAdapt">[Code]</a>
-*   <span style="color:red;">[KDD 2023]</span> TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting <a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599533">[Paper]</a>
+*   <span style="color:red;">[KDD 2023]</span> TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting <a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599533">[Paper]</a> <a href="https://huggingface.co/docs/transformers/model_doc/patchtsmixer">[Code]</a>
 *   <span style="color:red;">[WWW 2024]</span> Towards Invariant Time Series Forecasting in Smart Cities <a href="https://dl.acm.org/doi/proceedings/10.1145/3589335?tocHeading=heading10">[Paper]</a> <a href="https://www.youtube.com/watch?v=7GSY1nYn5g8">[Video]</a>
 *   <span style="color:red;">[ICML 2024]</span> Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning <a href="https://openreview.net/pdf?id=SMUXPVKUBg">[Paper]</a> <a href="https://github.com/AdityaLab/FOIL">[Code]</a>
 *   <span style="color:red;">[ICLR 2025]</span> Out-of-distribution Generalization for Total Variation based Invariant Risk Minimization <a href="https://openreview.net/pdf?id=c4wEKJOjY3">[Paper]</a> <a href="https://github.com/laizhr/OOD-TV-IRM">[Code]</a>
