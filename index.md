@@ -97,6 +97,7 @@ Tuning-based Methods:
 *   <span style="color:red;">[ICML 2024]</span> Unified Rraining of Universal Time Series Forecasting Transformers <a href="https://dl.acm.org/doi/10.5555/3692070.3694248">[Paper]</a> <a href="https://github.com/SalesforceAIResearch/uni2ts">[Code]</a>  
 *   <span style="color:red;">[CIKM 2024]</span> General Time Transformer: an Encoder-only Foundation Model for Zero-Shot Multivariate Time Series Forecasting <a href="https://dl.acm.org/doi/pdf/10.1145/3627673.3679931">[Paper]</a> <a href="https://github.com/cfeng783/GTT">[Code]</a>
 *   <span style="color:red;">[NeurIPS 2024]</span> Align and Fine-Tune: Enhancing LLMs for Time-Series Forecasting <a href="https://openreview.net/pdf?id=AaRCmJieG4">[Paper]</a>
+*   <span style="color:red;">[NeurIPS 2024]</span> Tri-Level Navigator: LLM-Empowered Tri-Level Learning for Time Series OOD Generalization <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/c78d9d035215039ab46e48c281e6a63d-Abstract-Conference.html">[Paper]</a>
 *   <span style="color:red;">[AAAI 2025]</span> ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data <a href="https://arxiv.org/abs/2412.11376">[Paper]</a> <a href="https://github.com/forestsking/chattime">[Code]</a>
 *   <span style="color:red;">[AAAI 2025]</span> CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning <a href="https://arxiv.org/abs/2403.07300">[Paper]</a> <a href="https://github.com/Hank0626/CALF">[Code]</a>
 
@@ -172,7 +173,7 @@ models <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1070680
 
 #### Acknowledgement
 
-Last updated on April 3, 2025. (For problems, contact xinwu5386@gmail.com. To add papers, please pull request at <a href="https://github.com/tsood-generalization/tsood-generalization.github.io">our repo</a>)
+Last updated on April 27, 2025. (For problems, contact xinwu5386@gmail.com. To add papers, please pull request at <a href="https://github.com/tsood-generalization/tsood-generalization.github.io">our repo</a>)
 
 <div style="width: 200px; height: 150px; margin: 0 auto;">
 <!-- Map Widget -->
