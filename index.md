@@ -26,7 +26,7 @@ Real-world data distributions are often dynamic rather than static and frequentl
 *   <span style="color:red;">[ICML 2024]</span> TimeX++: Learning Time-Series Explanations with Information Bottleneck <a href="https://openreview.net/pdf?id=t6dBpwkbea">[Paper]</a> <a href="https://github.com/zichuan-liu/TimeXplusplus">[Code]</a>
 
 ### Concept Shift
-
+*   <span style="color:red;">[ICML 2023]</span> Domain adaptation for time series under feature and label shifts <a href="https://proceedings.mlr.press/v202/he23b.html">[Paper]</a> <a href="https://github.com/mims-harvard/Raincoat">[Code]</a>
 *   <span style="color:red;">[AAMAS 2024]</span> Rethinking Out-of-Distribution Detection for Reinforcement Learning: Advancing Methods for Evaluation and Detection <a href="https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p1445.pdf">[Paper]</a> <a href="https://github.com/LinasNas/DEXTER">[Code]</a>
 *  <span style="color:red;">[ICLR 2024]</span> Disentangling Time Series Representations via Contrastive Independence-of-Support on l-Variational Inference <a href="https://openreview.net/pdf?id=iI7hZSczxE">[Paper]</a> <a href="https://institut-polytechnique-de-paris.github.io/time-disentanglement-lib/">[Code]</a>
 
@@ -67,6 +67,7 @@ Domain-Invariance Methods:
 *  <span style="color:red;">[AAAI 2021]</span> Latent independent excitation for generalizable sensor-based cross-person activity recognition <a href="https://ojs.aaai.org/index.php/AAAI/article/view/17416/17223">[Paper]</a> <a href="https://github.com/Hangwei12358/cross-person-HAR">[Code]</a>
 *   <span style="color:red;">[NeurIPS 2023]</span> Evolving Standardization for Continual Domain Generalization over Temporal Drift <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/459a911eb49cd2e0192055ee156d04e5-Paper-Conference.pdf">[Paper]</a> <a href="https://github.com/BIT-DA/EvoS">[Code]</a>
 *   <span style="color:red;">[ICLR 2023]</span> Out-of-distribution Representation Learning for Time Series Classification <a href="https://openreview.net/pdf?id=gUZWOE42l6Q">[Paper]</a> <a href="https://github.com/lrx0014/DiversifyAnalysis">[Code]</a>
+*   <span style="color:red;">[ICML 2023]</span> Domain adaptation for time series under feature and label shifts <a href="https://proceedings.mlr.press/v202/he23b.html">[Paper]</a> <a href="https://github.com/mims-harvard/Raincoat">[Code]</a>
 *   <span style="color:red;">[VR 2024]</span> Generating Virtual Reality Stroke Gesture Data from Out-of-Distribution Desktop Stroke Gesture Data <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10494175">[Paper]</a> <a href="https://github.com/yuanlinping/VRStrokeOOD">[Code]</a>
 *   <span style="color:red;">[AAAI 2024]</span> Generalizing across Temporal Domains with Koopman Operators <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29604/31020">[Paper]</a> <a href="https://github.com/HardworkingPearl/TKNets-AAAI2024">[Code]</a>
 *   <span style="color:red;">[ICML 2024]</span> Connect later: Improving fine-tuning for robustness with targeted augmentations <a href="https://openreview.net/pdf?id=Uz4Qr40Y3C">[Paper]</a> <a href="https://github.com/helenqu/connect-later">[Code]</a>
